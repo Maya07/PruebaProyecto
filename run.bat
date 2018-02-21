@@ -1,0 +1,1 @@
+java -classpath C:\Users\Mayerling\Desktop\PruebaProyecto TarjetaGestor
